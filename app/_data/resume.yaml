@@ -1,0 +1,275 @@
+---
+  basics: 
+    name: "Helgi Gylfason"
+    label: "Software Engineer"
+    picture: "/img/helgi.jpg"
+    email: "hgylfason@gmail.com"
+    phone: "(00354) 846-5328"
+    website: "http://helgi.hugfimi.is"
+    summary: "A family man that loves to learn"
+    languages: "Icelandic and English"
+    location: 
+      address: "Ánaland 6"
+      postalCode: "108"
+      city: "Reykjavík"
+      countryCode: "IS"
+      region: "Capital Region"
+    profiles: 
+      - 
+        network: "facebook"
+        username: "hgylfason"
+        url: "https://www.facebook.com/hgylfason"
+      - 
+        network: "twitter"
+        username: "hgylfason"
+        url: ""
+      - 
+        network: "github"
+        username: "hgylfason"
+        url: "https://github.com/hgylfason"
+      - 
+        network: "linkedin"
+        username: "hgylfason"
+        url: "https://www.linkedin.com/in/hgylfason"
+      - 
+        network: "rss"
+        username: "hgylfason"
+        url: "https://helgi.hugfimi.is"
+  work: 
+    - 
+      company: "Hugfimi"
+      position: "co-Founder"
+      website: "http://hugfimi.com"
+      startDate: "2014-01-01"
+      summary: ""
+      highlights: 
+        - "Designed the architecture of EYK, a highly customizable data management application for distributed sources."
+    - 
+      company: "CreditInfo"
+      position: "Developer"
+      website: "http://creditinfo.com"
+      startDate: "2013-06-01"
+      endDate: "2013-08-30"
+      summary: "Summer job at Creditinfo but it is a leading service provider for credit information and risk management solutions worldwide. It has developed, through its multiple subsidiaries, numerous products and services from official and customer information sources to facilitate best practice decisioning in credit risk management and has been the preferred partner of local Credit Bureaus."
+      highlights: 
+        - "Participated in porting their old website to a new one but both are developed in .NET"
+#  volunteer: 
+#    - 
+#      organization: "CoderDojo"
+#      position: "Teacher"
+#      website: "http://coderdojo.com/"
+#      startDate: "2012-01-01"
+#      endDate: "2013-01-01"
+#      summary: "Global movement of free coding clubs for young people."
+#      highlights: 
+#        - "Awarded 'Teacher of the Month'"
+  education: 
+    - 
+      institution: "University of Iceland"
+      area: "Software Engineering"
+      studyType: "Master"
+      startDate: "2012-09-01"
+      endDate: "2015-02-15"
+      courses: 
+        - 
+          name: "IÐN202M - Innovation, Product Development, Marketing"
+          url: "https://ugla.hi.is/kennsluskra/index.php?sid=&tab=nam&chapter=namskeid&id=08221820140"
+        - 
+          name: "TÖL203M - Computer Graphics"
+          url: "https://ugla.hi.is/kennsluskra/index.php?sid=&tab=nam&chapter=namskeid&id=08726420130"
+        - 
+          name: "HBV204F - International Marketing of Software"
+          url: "https://ugla.hi.is/kennsluskra/index.php?sid=&tab=nam&chapter=namskeid&id=70529820130"
+        - 
+          name: "IÐN210F - Organization and Management"
+          url: "https://ugla.hi.is/kennsluskra/index.php?sid=&tab=nam&chapter=namskeid&id=70368420130"
+        - 
+          name: "TÖL109F - From an Idea to Reality"
+          url: "https://ugla.hi.is/kennsluskra/index.php?sid=&tab=nam&chapter=namskeid&id=70601620126"
+        - 
+          name: "IÐN117F - Statistical Data Mining"
+          url: "https://ugla.hi.is/kennsluskra/index.php?sid=&tab=nam&chapter=namskeid&id=70369320126"
+        - 
+          name: "HBV101F - Software Maintenance"
+          url: "https://ugla.hi.is/kennsluskra/index.php?sid=&tab=nam&chapter=namskeid&id=08732320126"
+        - 
+          name: "HBV103F - Software Testing"
+          url: "https://ugla.hi.is/kennsluskra/index.php?sid=&tab=nam&chapter=namskeid&id=08731720126"
+        - 
+          name: "IÐN101M - Quality Management"
+          url: "https://ugla.hi.is/kennsluskra/index.php?sid=&tab=nam&chapter=namskeid&id=08223220126"
+    - 
+      institution: "University of Iceland"
+      area: "Software Engineering"
+      studyType: "Bachelor"
+      startDate: "2008-09-01"
+      endDate: "2012-06-15"
+      courses: 
+        - 
+          name: "TÖL402G - Logic in Software Design"
+          url: "https://ugla.hi.is/kennsluskra/index.php?tab=nam&chapter=namskeid&id=08714620100&namskra=0"
+        - 
+          name: "TÖL401G - Operating Systems"
+          url: "https://ugla.hi.is/kennsluskra/index.php?tab=nam&chapter=namskeid&id=08714520100&namskra=0"
+        - 
+          name: "HBV201G - Graphical User Interface Programming"
+          url: "https://ugla.hi.is/kennsluskra/index.php?sid=&tab=nam&chapter=namskeid&id=08712520120"
+        - 
+          name: "HBV501G - Software Project 1"
+          url: "https://ugla.hi.is/kennsluskra/index.php?sid=&tab=nam&chapter=namskeid&id=08715120116"
+        - 
+          name: "TÖL304G - Programming Languages"
+          url: "https://ugla.hi.is/kennsluskra/index.php?sid=&tab=nam&chapter=namskeid&id=08713320116"
+        - 
+          name: "TÖL303G - Data Base Theory and Practice"
+          url: "https://ugla.hi.is/kennsluskra/index.php?sid=&tab=nam&chapter=namskeid&id=08713120116"
+        - 
+          name: "TÖL104G - Mathematical Structures for Computer Science"
+          url: "https://ugla.hi.is/kennsluskra/index.php?sid=&tab=nam&chapter=namskeid&id=08711420116"
+        - 
+          name: "IÐN503G - Project Management"
+          url: "https://ugla.hi.is/kennsluskra/index.php?sid=&tab=nam&chapter=namskeid&id=08213720116"
+        - 
+          name: "HBV401G - Software Development"
+          url: "https://ugla.hi.is/kennsluskra/index.php?sid=&tab=nam&chapter=namskeid&id=08714120110"
+        - 
+          name: "TÖL203G - Computer Science 2"
+          url: "https://ugla.hi.is/kennsluskra/index.php?sid=&tab=nam&chapter=namskeid&id=08712920110"
+        - 
+          name: "IÐN603G - Industrial Statistics"
+          url: "https://ugla.hi.is/kennsluskra/index.php?sid=&tab=nam&chapter=namskeid&id=08216920110"
+        - 
+          name: "STÆ405G - Numerical Analysis"
+          url: "https://ugla.hi.is/kennsluskra/index.php?sid=&tab=nam&chapter=namskeid&id=09104320100"
+        - 
+          name: "IÐN502G - Engineering Economics"
+          url: "https://ugla.hi.is/kennsluskra/index.php?sid=&tab=nam&chapter=namskeid&id=08213320106"
+        - 
+          name: "STÆ203G - Probability and Statistics"
+          url: "https://ugla.hi.is/kennsluskra/index.php?sid=&tab=nam&chapter=namskeid&id=09102520100"
+        - 
+          name: "EÐL302G - Classical Mechanics"
+          url: "https://ugla.hi.is/kennsluskra/index.php?sid=&tab=nam&chapter=namskeid&id=09213420096"
+        - 
+          name: "TÆ302G - Mathematical Analysis IIIB"
+          url: "https://ugla.hi.is/kennsluskra/index.php?sid=&tab=nam&chapter=namskeid&id=09103120096"
+        - 
+          name: "EÐL201G - Physics 2 V"
+          url: "https://ugla.hi.is/kennsluskra/index.php?sid=&tab=nam&chapter=namskeid&id=09212120090"
+        - 
+          name: "STÆ205G - Mathematical Analysis IIB"
+          url: "https://ugla.hi.is/kennsluskra/index.php?sid=&tab=nam&chapter=namskeid&id=09102120090"
+        - 
+          name: "STÆ208G - Linear Algebra B"
+          url: "https://ugla.hi.is/kennsluskra/index.php?sid=&tab=nam&chapter=namskeid&id=09101420090"
+        - 
+          name: "EÐL102G - Physics 1 V"
+          url: "https://ugla.hi.is/kennsluskra/index.php?sid=&tab=nam&chapter=namskeid&id=09211120086"
+        - 
+          name: "STÆ104G - Mathematical Analysis IB"
+          url: "https://ugla.hi.is/kennsluskra/index.php?sid=&tab=nam&chapter=namskeid&id=09101120086"
+        - 
+          name: "IÐN101G - Operation Management"
+          url: "https://ugla.hi.is/kennsluskra/index.php?sid=&tab=nam&chapter=namskeid&id=08212120086"
+        - 
+          name: "TÖL105G - Computer Science 1a"
+          url: "https://ugla.hi.is/kennsluskra/index.php?sid=&tab=nam&chapter=namskeid&id=08711220086"
+#  awards: 
+#    - 
+#      title: "Digital Compression Pioneer Award"
+#      Date: "2014-11-01"
+#      awarder: "Techcrunch"
+#      summary: "There is no spoon."
+#  publications: 
+#    - 
+#      name: "Video compression for 3d media"
+#      publisher: "Hooli"
+#      releaseDate: "2014-10-01"
+#      website: "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
+#      summary: "Innovative middle-out compression algorithm that changes the way we store data."
+  skills: 
+    - 
+      name: "Web Development"
+      #level: "Intermediate"
+      keywords: 
+        - "HTML"
+        - "CSS"
+        - "Javascript"
+        - "LeafletJS"
+        - "Python"
+        - "Django"
+        - "Twitter Bootstrap"
+    - 
+      name: "SQL Databases"
+      #level: "Master"
+      keywords: 
+        - "PostgreSQL"
+        - "MySQL"
+        - "SQlite"
+    - 
+      name: "Operating Systems"
+      #level: "Master"
+      keywords: 
+        - "OS X"
+        - "Linux"
+        - "Windows"
+    - 
+      name: "Software Testing"
+      #level: "Master"
+      keywords: 
+        - "BDD"
+        - "Behave"
+        - "PhantomJS/CasperJS"
+    - 
+      name: "VCS"
+      #level: "Master"
+      keywords: 
+        - "Git"
+        - "SVN"
+    - 
+      name: "Weapons"
+      #level: "Master"
+      keywords: 
+        - "VIM"
+        - "Tmux"
+        - "Zsh"
+        - "Macbook Pro"
+  languages: 
+    -
+      language: "Icelandic"
+      fluency: "Native proficiency"
+      level: 5
+    - 
+      language: "English"
+      fluency: "Full professional proficiency"
+      level: 5
+    - 
+      language: "Danish"
+      fluency: "Elementary proficiency"
+      level: 1
+    - 
+      language: "Spanish"
+      fluency: "Elementary proficiency"
+      level: 1
+  interests: 
+    - 
+      name: "Sports"
+      keywords: 
+        - "Football (Soccer)"
+        - "FC Barcelona"
+        - "Liverpool"
+        - "Basketball"
+        - "Chicago Bulls"
+    - 
+      name: "Movies & TV Shows"
+      keywords: 
+        - "Sci-fi"
+        - "Fantasy"
+        - "Documentaries"
+#  references: 
+#    - 
+#      name: "Erlich Bachman"
+#      reference: "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+#
+# ------------------------------------------------------------------------------
+#SKILL LEVELS ARE: NOVICE - ADVANCED BEGINNER - COMPETENT - PROFICIENT -  EXPERT

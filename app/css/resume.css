@@ -1,0 +1,8 @@
+.label.courses {
+  margin: 5px;
+}
+
+.label.courses > a {
+  color: white;
+  padding: 5px;
+}
